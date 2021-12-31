@@ -1,0 +1,29 @@
+{
+  "name": "blockchain-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MUKILAN-2003/Blockchain-TODO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MUKILAN-2003/Blockchain-TODO/issues"
+  },
+  "homepage": "https://github.com/MUKILAN-2003/Blockchain-TODO#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.0.0",
+    "lite-server": "^2.6.1",
+    "nodemon": "^2.0.15"
+  }
+}
